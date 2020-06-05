@@ -203,7 +203,7 @@ const CreatePoint = () => {
 
             <fieldset>
                 <legend>
-                    <h2>Enderaço</h2>
+                    <h2>Endereço</h2>
                     <span>Selecione o endereço no mapa</span>
                 </legend>
 
